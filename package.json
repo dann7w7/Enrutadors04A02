@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "express": "^4.18.2"
+  },
+  "name": "awesome-app-2023a",
+  "type": "module",
+  "description": "PROYECTO DE APRENDIZAJE DE LA PLATAFORMA EXPRESS JS",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "node app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
